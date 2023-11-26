@@ -1,3 +1,3 @@
 # fastcampus-jenkins
 # fastcampus-jenkins
-new7
+new8
